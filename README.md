@@ -2,12 +2,12 @@ Huzurevi İlaç Takip Sistemi
 Bu program, huzurevinde konaklayan sakinlerin kişisel bilgilerini tutmak ve günlük ilaç saatlerini takip ederek hatırlatma yapmak amacıyla C dili ile geliştirilmiştir.
 
 📖 Proje Hakkında
-Sistem, kullanıcıdan alınan güncel saat bilgisini kullanarak kayıtlı sakinlerin ilaç saatlerini kontrol eder. Eğer o an bir sakinin ilaç saati gelmişse, sistem otomatik olarak bir uyarı mesajı görüntüler.
+Sistem, kullanıcıdan alınan güncel saat bilgisini kullanarak kayıtlı sakinlerin ilaç saatlerini kontrol eder. Eğer o an bir sakinin ilaç saati gelmişse sistem otomatik olarak bir uyarı mesajı görüntüler.
 
 ✨ Özellikler
-Kişisel Veri Yönetimi: Sakinlerin adı, soyadı, yaşı, kilosu ve boyu gibi demografik bilgileri saklar.
+Kişisel Veri Yönetimi: Sakinlerin adı, soy adı, yaşı, kilosu ve boyu gibi demografik bilgileri saklar.
 
-Dinamik İlaç Takibi: Her sakin için 50 adede kadar farklı ilaç saati tanımlanabilir.
+Dinamik İlaç Takibi: Her kişi için 50 adede kadar farklı ilaç saati tanımlanabilir.
 
 Gerçek Zamanlı Kontrol: Girilen güncel saate göre sistem anlık bildirim yapar.
 
